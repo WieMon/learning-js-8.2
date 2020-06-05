@@ -4,13 +4,14 @@ div {
   margin: 20px auto;
   font-size: 60px;
   letter-spacing: 1px;
- }
+}
 
- .cursor {
+.cursor {
   opacity: 0;
   transition: .2s;
- }
+}
 
- .cursor.active {
+.cursor.active {
   opacity: 1;
- }
+}
+/*# sourceMappingURL=style.css.map */
